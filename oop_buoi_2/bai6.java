@@ -1,8 +1,7 @@
-package lab02;
 import java.util.ArrayList;
 import java.util.Collections;
 import javax.swing.JOptionPane;
-public class ex5_6 {
+public class bai6 {
 	public static void main(String args[]) {
 		ArrayList<Integer> arr = new ArrayList<Integer>();
 		String el;

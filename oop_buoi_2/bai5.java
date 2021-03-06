@@ -1,7 +1,6 @@
-package lab02;
 import java.util.Arrays;
 import javax.swing.JOptionPane;
-public class ex5_5 {
+public class bai5 {
 
 	public static void main(String args[]) {
 
@@ -30,7 +29,7 @@ public class ex5_5 {
 			}
 		} while (check == 0);
 
-		switch (Integer.parseInt(month) + 1) {
+		switch (Integer.parseInt(month)) {
 		case 1:
 			day = 31;
 			break;

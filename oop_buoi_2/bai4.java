@@ -1,6 +1,5 @@
-package lab02;
 import javax.swing.JOptionPane;
-public class ex5_4 {
+public class bai4 {
 	public static void main(String args[]) {
 		String n = JOptionPane.showInputDialog("Enter a number: ");
 		int a = Integer.parseInt(n);

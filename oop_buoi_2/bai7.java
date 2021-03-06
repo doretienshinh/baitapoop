@@ -1,6 +1,5 @@
-package lab02;
 import java.util.Scanner;
-public class ex5_7 {
+public class bai7 {
 	public static void main(String args[]) {
 		int row, column, x, y;
 		Scanner in = new Scanner(System.in);
