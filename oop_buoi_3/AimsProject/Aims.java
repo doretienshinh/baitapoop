@@ -1,4 +1,4 @@
-package oop_buoi_3;
+package AimsProject;
 import java.util.Scanner;
 import java.util.List;
 
